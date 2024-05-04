@@ -3,7 +3,7 @@ on:
       branches:
         - main
 jobs:
-    job1:
+    //job1:
       runs-on: ubuntu-latest
       name: Build Node.js Docker Image and deploy to Minikube
       steps:
